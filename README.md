@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey! I'm [@NILodio](https://www.linkedin.com/in/danilo-diaz/) (Danilo Diaz) 👋
 
-<!--
-**NilodioBrite/Nilodiobrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Colombia. 🇨🇴
 
-Here are some ideas to get you started:
+Full Stack Software Engineer👽️ passionate about sports and video games.🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀
+
+Self-Directed and driven technology professional with accomplishments applying statistical regression models, data visualization, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business and industrial problems.
+
+🚀
+
+`Python`
+`Javascript`
+
+You can find me on:
+
+* [My website: nilodio.com](https://nilodio.github.io/Web_Portafolio/)
+* [GitHub as @NILodio (you are here)](https://github.com/NILodio/NILodio)
+* [LinkedIn](https://www.linkedin.com/in/danilo-diaz/)
