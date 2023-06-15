@@ -12,7 +12,7 @@ Self-Directed and driven technology professional with accomplishments applying s
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,was,azure,bash,django,docker,fastapi,flask,git,github,ai,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,aws,azure,bash,django,docker,fastapi,flask,git,github,ai,)](https://skillicons.dev)
 
 
 You can find me on:
