@@ -10,14 +10,14 @@ Self-Directed and driven technology professional with accomplishments applying s
 
 🚀
 
-`BackEnd`
+#### BackEnd
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,docker,fastapi,flask,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask)](https://skillicons.dev)
 
-`FrontEnd`
+#### BackEnd
 [![My Skills](https://skillicons.dev/icons?i=js,html,CSS,vue)](https://skillicons.dev)
 
-`Cloud`
+#### BackEnd
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
 You can find me on:
