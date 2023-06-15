@@ -10,8 +10,8 @@ Self-Directed and driven technology professional with accomplishments applying s
 
 🚀
 
-`Python`
-`Javascript`
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 You can find me on:
 
